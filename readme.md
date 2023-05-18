@@ -19,6 +19,8 @@ Application (with the embedded H2 database) is ready to be used! You can access 
 - Added validations for apis.
 - update needs full object because it is a put request. this is also done in validations
 
+- I was busy with some high priority production issues this week and could not spend enough time on the test. I wrote a few test cases but did not execute them.
+
 ### Experience in Java
 
 I have over 7 years of experience in Java development. Throughout my career, I have worked with various Java frameworks and technologies, including Swing, Struts, Spring, and Spring Boot. I have a strong understanding of memory management, JVM internals, and garbage collection. I am well-versed in Java 8, the latest version I have used.
